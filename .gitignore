@@ -1,0 +1,12 @@
+# Python w/ venv gitignore
+bin/
+include/
+lib/
+man/
+data/
+*.DS_Store
+*.cfg
+*.code-workspace
+*.json
+*.jpg
+*.tiff
