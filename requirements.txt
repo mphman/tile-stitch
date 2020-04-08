@@ -1,2 +1,2 @@
-Pillow==5.0.0
+Pillow==6.2.2
 tqdm==4.19.8
